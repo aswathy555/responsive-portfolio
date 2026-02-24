@@ -1,10 +1,10 @@
 body{
-    background-color: #f6c4c4;
+    background-color: #eed3d3;
     margin: 0;
     padding: 20px;
 }
 h1{
-    color: darkblue;
+    color: white;
     text-align: center;
 }
 h2,h3{
@@ -13,4 +13,21 @@ h2,h3{
 
 h2,h3,p{
     font-size: 18px;
+}
+header{
+    background-color: #dc7878;
+    color: beige;
+    padding: 20px;
+    text-align: center;
+}
+ul{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+section {
+    background-color: rgb(205, 141, 141);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
 }
