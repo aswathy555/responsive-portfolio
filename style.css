@@ -1,0 +1,16 @@
+body{
+    background-color: #f6c4c4;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2,h3{
+    color: #333;
+}
+
+h2,h3,p{
+    font-size: 18px;
+}
